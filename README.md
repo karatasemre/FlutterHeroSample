@@ -1,17 +1,7 @@
-# hero_widget_example
+# Flutter Hero Sample
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/7110339/67460639-317d1200-f644-11e9-9e5e-b06dcb547853.png" width="200" height="400">  <img src="https://user-images.githubusercontent.com/7110339/67460641-3215a880-f644-11e9-803d-6b4901d725c9.png" width="200" height="400"> 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FlutterHeroSample
+## Questions?🤔
+Write me on [![Linkedin](https://img.shields.io/badge/Linkedin-Emre%20Karataş-blue.svg)](https://www.linkedin.com/in/emre-karata%C5%9F-062b26a9/) 
